@@ -1,1 +1,1 @@
-web: python routesolver/app.py
+web: gunicorn gettingstarted.wsgi
